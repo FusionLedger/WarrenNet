@@ -21,9 +21,8 @@ A Clarity smart contract is composed of two parts — a data space and a set of 
 # TestNet
 
 - Open a new terminal for testnet and run the coomands
-
-git clone https://github.com/blockstack/stacks-blockchain.git
-cd stacks-blockchain
-cargo testnet start --config=testnet/stacks-node/Stacks.toml
+- git clone https://github.com/blockstack/stacks-blockchain.git
+- cd stacks-blockchain
+- cargo testnet start --config=testnet/stacks-node/Stacks.toml
 
 
